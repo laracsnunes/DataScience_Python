@@ -5,10 +5,10 @@ I’m currently learning **Machine Learning and Data Science** and you can find 
 
 
 <a href="https://github.com/laracsnunes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laracsnunes" />
+  <img height=80 align="center" src="https://github-readme-stats.vercel.app/api?username=laracsnunes" />
 </a>
 <a href="https://github.com/laracsnunes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laracsnunes&layout=compact&langs_count=8&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laracsnunes&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
