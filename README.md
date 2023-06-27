@@ -5,7 +5,7 @@ I’m currently learning **Machine Learning and Data Science** and you can find 
 
 
 <a href="https://github.com/laracsnunes/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=laracsnunes" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=laracsnunes" />
 </a>
 <a href="https://github.com/laracsnunes/convoychat">
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laracsnunes&layout=compact&langs_count=8&card_width=320" />
