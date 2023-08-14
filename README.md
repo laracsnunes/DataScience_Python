@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Lara C Nunes</h1>
-<h3 align="center">A passionate for Software Engineering</h3>
+<h3 align="center">A passionate for Computer Engineering</h3>
 
 I’m currently learning **Machine Learning and Data Science** ☺ 
 
