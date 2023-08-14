@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lara C Nunes</h1>
 <h3 align="center">A passionate for Software Engineering</h3>
 
-I’m currently learning **Machine Learning and Data Science** and you can find me at: **lara.campos.nunes@hotmail.com** ☺ 
+I’m currently learning **Machine Learning and Data Science** ☺ 
 
 
 <a href="https://github.com/laracsnunes/github-readme-stats">
