@@ -1,6 +1,6 @@
 <h1 align="center">:･ﾟ✧:･.Hello｡✧:･.:</h1>
 
-I’m Computer Engineering student at the Infnet Institute.
+My name is Lara Nunes, I’m Computer Engineering student at the Infnet Institute, based in Brazil. 
 
 
 <!DOCTYPE html>
